@@ -1,0 +1,6 @@
+framework module Pods_20220218_NeerajSaini_NYCSchools {
+  umbrella header "Pods-20220218-NeerajSaini-NYCSchools-umbrella.h"
+
+  export *
+  module * { export * }
+}
